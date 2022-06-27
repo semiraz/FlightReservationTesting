@@ -1,0 +1,10 @@
+/home/semira/IdeaProjects/JavaDesignPatterns/DesignPatterns/src/main/java/org/minieacademy/abstract_components/StrategyFactor.java
+/home/semira/IdeaProjects/JavaDesignPatterns/DesignPatterns/src/main/java/org/minieacademy/page_components/RoundTrip.java
+/home/semira/IdeaProjects/JavaDesignPatterns/DesignPatterns/src/main/java/org/minieacademy/page_objects/TravelHomePage.java
+/home/semira/IdeaProjects/JavaDesignPatterns/DesignPatterns/src/main/java/org/minieacademy/page_components/FooterNav.java
+/home/semira/IdeaProjects/JavaDesignPatterns/DesignPatterns/src/main/java/org/minieacademy/abstract_components/AbstractComponent.java
+/home/semira/IdeaProjects/JavaDesignPatterns/DesignPatterns/src/main/java/org/minieacademy/abstract_components/SearchFlightAvailability.java
+/home/semira/IdeaProjects/JavaDesignPatterns/DesignPatterns/src/main/java/org/minieacademy/page_components/MultiTrip.java
+/home/semira/IdeaProjects/JavaDesignPatterns/DesignPatterns/src/main/java/org/minieacademy/page_components/OneWay.java
+/home/semira/IdeaProjects/JavaDesignPatterns/DesignPatterns/src/main/java/org/minieacademy/page_components/NavigationBar.java
+/home/semira/IdeaProjects/JavaDesignPatterns/DesignPatterns/src/main/java/org/minieacademy/data_loads/DataReader.java
