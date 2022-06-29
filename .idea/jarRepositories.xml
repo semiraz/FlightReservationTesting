@@ -8,6 +8,11 @@
     </remote-repository>
     <remote-repository>
       <option name="id" value="snapshots" />
+      <option name="name" value="default5-libs-snapshot" />
+      <option name="url" value="https://minieacademy.jfrog.io/artifactory/default5-libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
       <option name="name" value="default1-libs-snapshot" />
       <option name="url" value="https://minieacademy.jfrog.io/artifactory/default1-libs-snapshot" />
     </remote-repository>
@@ -15,6 +20,11 @@
       <option name="id" value="central" />
       <option name="name" value="libs-release" />
       <option name="url" value="http://minieacademy:1004/artifactory/libs-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="default5-libs-release" />
+      <option name="url" value="https://minieacademy.jfrog.io/artifactory/default5-libs-release" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
